@@ -2,5 +2,9 @@ public class () {
   public static void main (String [] ar){
 
     system.out.println("Hello, World);
-}
+
+    for ( int i=1 , i < 7 , i++){
+        system.out.println( +i);
+    }
+  }
 }
